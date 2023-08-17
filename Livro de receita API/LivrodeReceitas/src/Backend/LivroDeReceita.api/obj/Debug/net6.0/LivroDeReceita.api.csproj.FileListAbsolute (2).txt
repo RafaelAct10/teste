@@ -1,0 +1,6 @@
+C:\Users\Coringa\Desktop\Livro de receita API\LivrodeReceitas\src\Backend\LivroDeReceita.api\obj\Debug\net6.0\LivroDeReceita.api.csproj.AssemblyReference.cache
+C:\Users\Coringa\Desktop\Livro de receita API\LivrodeReceitas\src\Backend\LivroDeReceita.api\obj\Debug\net6.0\LivroDeReceita.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coringa\Desktop\Livro de receita API\LivrodeReceitas\src\Backend\LivroDeReceita.api\obj\Debug\net6.0\LivroDeReceita.api.AssemblyInfoInputs.cache
+C:\Users\Coringa\Desktop\Livro de receita API\LivrodeReceitas\src\Backend\LivroDeReceita.api\obj\Debug\net6.0\LivroDeReceita.api.AssemblyInfo.cs
+C:\Users\Coringa\Desktop\Livro de receita API\LivrodeReceitas\src\Backend\LivroDeReceita.api\obj\Debug\net6.0\LivroDeReceita.api.csproj.CoreCompileInputs.cache
+C:\Users\Coringa\Desktop\Livro de receita API\LivrodeReceitas\src\Backend\LivroDeReceita.api\obj\Debug\net6.0\LivroDeReceita.api.MvcApplicationPartsAssemblyInfo.cache

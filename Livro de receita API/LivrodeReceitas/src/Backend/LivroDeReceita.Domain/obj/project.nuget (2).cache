@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vhjjPYCcUwq60B9Y0mHQTkZz8DyU2h5x395E3ds/l4d+3OGMuZV/OALyCa1qJcG/16OSLxjogkrr/T1DfS4Kaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Coringa\\Desktop\\Livro de receita API\\LivrodeReceitas\\src\\Backend\\LivroDeReceita.Domain\\LivroDeReceita.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Coringa\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\Coringa\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Coringa\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Coringa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

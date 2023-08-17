@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "livrodereceira.comunicacao/1.0.0": {
+        "runtime": {
+          "livrodereceira.comunicacao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "livrodereceira.comunicacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zxsbqJ87I+bf8q3AGGXtZ/ODmJw8QicpQ8d4pyCadYQ4EqM7v4t1mAaMi6XR0DhPxB7YrDQ4ju0RgFzz9VRFuw==",
+  "success": true,
+  "projectFilePath": "D:\\rafael pc\\Estudos\\Livro de receita API\\LivrodeReceitas\\src\\Backend\\LivroDeReceita.Domain\\LivroDeReceita.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael-Dev\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\Rafael-Dev\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Rafael-Dev\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Rafael-Dev\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
